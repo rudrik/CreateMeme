@@ -1,0 +1,275 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From App:
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\dictionaries\
+* .idea\dictionaries\MobileTest.xml
+* .idea\encodings.xml
+* .idea\inspectionProfiles\
+* .idea\inspectionProfiles\Project_Default.xml
+* .idea\inspectionProfiles\profiles_settings.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\uiDesigner.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* App.iml
+* ant.properties
+* build.xml
+* out\
+* out\production\
+* out\production\colorpicker-library\
+* out\production\colorpicker-library\com\
+* out\production\colorpicker-library\com\fourmob\
+* out\production\colorpicker-library\com\fourmob\colorpicker\
+* out\production\colorpicker-library\com\fourmob\colorpicker\BuildConfig.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\ColorPickerDialog.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\ColorPickerPalette.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\ColorPickerSwatch$OnColorSelectedListener.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\ColorPickerSwatch.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\ColorStateDrawable.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\R$attr.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\R$dimen.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\R$drawable.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\R$id.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\R$layout.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\R$string.class
+* out\production\colorpicker-library\com\fourmob\colorpicker\R.class
+* out\production\main\
+* out\production\main\com\
+* out\production\main\com\soundcloud\
+* out\production\main\com\soundcloud\android\
+* out\production\main\com\soundcloud\android\crop\
+* out\production\main\com\soundcloud\android\crop\BuildConfig.class
+* out\production\main\com\soundcloud\android\crop\Crop$Extra.class
+* out\production\main\com\soundcloud\android\crop\Crop.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$1.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$2.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$3.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$4$1.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$4.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$5.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$6.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$Cropper$1.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity$Cropper.class
+* out\production\main\com\soundcloud\android\crop\CropImageActivity.class
+* out\production\main\com\soundcloud\android\crop\CropImageView.class
+* out\production\main\com\soundcloud\android\crop\CropUtil$BackgroundJob$1.class
+* out\production\main\com\soundcloud\android\crop\CropUtil$BackgroundJob.class
+* out\production\main\com\soundcloud\android\crop\CropUtil.class
+* out\production\main\com\soundcloud\android\crop\HighlightView$HandleMode.class
+* out\production\main\com\soundcloud\android\crop\HighlightView$ModifyMode.class
+* out\production\main\com\soundcloud\android\crop\HighlightView.class
+* out\production\main\com\soundcloud\android\crop\ImageViewTouchBase$1.class
+* out\production\main\com\soundcloud\android\crop\ImageViewTouchBase$2.class
+* out\production\main\com\soundcloud\android\crop\ImageViewTouchBase$Recycler.class
+* out\production\main\com\soundcloud\android\crop\ImageViewTouchBase.class
+* out\production\main\com\soundcloud\android\crop\MonitoredActivity$LifeCycleAdapter.class
+* out\production\main\com\soundcloud\android\crop\MonitoredActivity$LifeCycleListener.class
+* out\production\main\com\soundcloud\android\crop\MonitoredActivity.class
+* out\production\main\com\soundcloud\android\crop\R$attr.class
+* out\production\main\com\soundcloud\android\crop\R$color.class
+* out\production\main\com\soundcloud\android\crop\R$dimen.class
+* out\production\main\com\soundcloud\android\crop\R$drawable.class
+* out\production\main\com\soundcloud\android\crop\R$id.class
+* out\production\main\com\soundcloud\android\crop\R$layout.class
+* out\production\main\com\soundcloud\android\crop\R$string.class
+* out\production\main\com\soundcloud\android\crop\R$style.class
+* out\production\main\com\soundcloud\android\crop\R$styleable.class
+* out\production\main\com\soundcloud\android\crop\R.class
+* out\production\main\com\soundcloud\android\crop\RotateBitmap.class
+* out\production\main\com\soundcloud\android\crop\util\
+* out\production\main\com\soundcloud\android\crop\util\Log.class
+* out\production\main\com\soundcloud\android\crop\util\VisibleForTesting.class
+* out\production\main\main.apk
+* out\production\main\main.unaligned.apk
+* out\production\pagerlibrary\
+* out\production\pagerlibrary\com\
+* out\production\pagerlibrary\com\astuetz\
+* out\production\pagerlibrary\com\astuetz\PagerSlidingTabStrip$1.class
+* out\production\pagerlibrary\com\astuetz\PagerSlidingTabStrip$2.class
+* out\production\pagerlibrary\com\astuetz\PagerSlidingTabStrip$IconTabProvider.class
+* out\production\pagerlibrary\com\astuetz\PagerSlidingTabStrip$PageListener.class
+* out\production\pagerlibrary\com\astuetz\PagerSlidingTabStrip$SavedState$1.class
+* out\production\pagerlibrary\com\astuetz\PagerSlidingTabStrip$SavedState.class
+* out\production\pagerlibrary\com\astuetz\PagerSlidingTabStrip.class
+* out\production\pagerlibrary\com\astuetz\pagerslidingtabstrip\
+* out\production\pagerlibrary\com\astuetz\pagerslidingtabstrip\BuildConfig.class
+* out\production\pagerlibrary\com\astuetz\pagerslidingtabstrip\R$attr.class
+* out\production\pagerlibrary\com\astuetz\pagerslidingtabstrip\R$color.class
+* out\production\pagerlibrary\com\astuetz\pagerslidingtabstrip\R$drawable.class
+* out\production\pagerlibrary\com\astuetz\pagerslidingtabstrip\R$styleable.class
+* out\production\pagerlibrary\com\astuetz\pagerslidingtabstrip\R.class
+* out\production\rating-reminder\
+* out\production\rating-reminder\net\
+* out\production\rating-reminder\net\equasoft\
+* out\production\rating-reminder\net\equasoft\ratingreminder\
+* out\production\rating-reminder\net\equasoft\ratingreminder\BuildConfig.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\R$attr.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\R$color.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\R$drawable.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\R$id.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\R$layout.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\R$string.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\R$style.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\R.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\RatingReminder$1.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\RatingReminder$2.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\RatingReminder.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\algo\
+* out\production\rating-reminder\net\equasoft\ratingreminder\algo\DoubleGapAlgo.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\algo\IAlgo.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\algo\NoGapAlgo.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\algo\RegularAlgo.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\dialog\
+* out\production\rating-reminder\net\equasoft\ratingreminder\dialog\BasicDialogBuilder.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\dialog\ImageDialogBuilder.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\dialog\StoreSelectionDialogBuilder$1.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\dialog\StoreSelectionDialogBuilder$StoreSelectionAdapter$ViewHolder.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\dialog\StoreSelectionDialogBuilder$StoreSelectionAdapter.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\dialog\StoreSelectionDialogBuilder.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\fragment\
+* out\production\rating-reminder\net\equasoft\ratingreminder\fragment\AskingDialogFragment$1.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\fragment\AskingDialogFragment$2.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\fragment\AskingDialogFragment$3.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\fragment\AskingDialogFragment$4.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\fragment\AskingDialogFragment$OnRating.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\fragment\AskingDialogFragment.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\io\
+* out\production\rating-reminder\net\equasoft\ratingreminder\io\PrefsTools.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\log\
+* out\production\rating-reminder\net\equasoft\ratingreminder\log\DebugLog.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\model\
+* out\production\rating-reminder\net\equasoft\ratingreminder\model\Store$1.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\model\Store.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\type\
+* out\production\rating-reminder\net\equasoft\ratingreminder\type\AlgoType.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\type\RatingDialogType.class
+* out\production\rating-reminder\net\equasoft\ratingreminder\type\StoreType.class
+* proguard-project.txt
+From ambilwarna-master:
+* .gitignore
+* README.md
+* ambilwarna-master.iml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+From lib:
+* ant.properties
+* build.xml
+* lib.iml
+* proguard-project.txt
+From rating-reminder:
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* CHANGELOG.txt
+* build.gradle
+* ic_launcher-web.png
+* proguard-project.txt
+* rating-reminder.iml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:19.1.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:19.1.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In ambilwarna-master:
+* AndroidManifest.xml => ambilwarnamaster\src\main\AndroidManifest.xml
+* res\ => ambilwarnamaster\src\main\res\
+* src\ => ambilwarnamaster\src\main\java\
+In lib:
+* AndroidManifest.xml => lib\src\main\AndroidManifest.xml
+* res\ => lib\src\main\res\
+* src\ => lib\src\main\java\
+In rating-reminder:
+* AndroidManifest.xml => ratingreminder\src\main\AndroidManifest.xml
+* res\ => ratingreminder\src\main\res\
+* src\ => ratingreminder\src\main\java\
+In App:
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\myjson-1.5.jar => app\libs\myjson-1.5.jar
+* libs\universal-image-loader-1.9.3.jar => app\libs\universal-image-loader-1.9.3.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__tile.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__tile.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_cancel.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_cancel.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__ic_done.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__ic_done.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\crop__divider.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crop__divider.9.png"
+    }
+]

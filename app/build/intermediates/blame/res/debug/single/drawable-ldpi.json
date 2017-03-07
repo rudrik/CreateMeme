@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_empty.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-ldpi\\ic_empty.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_stub.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-ldpi\\ic_stub.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_error.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-ldpi\\ic_error.png"
+    }
+]

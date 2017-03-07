@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_actions.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\menu\\activity_main_actions.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_menu.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\menu\\action_menu.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\create_template_menu.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\menu\\create_template_menu.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\create_meme_menu.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\menu\\create_meme_menu.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\image_pager_menu.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\menu\\image_pager_menu.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\template_list_menu.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\menu\\template_list_menu.xml"
+    }
+]

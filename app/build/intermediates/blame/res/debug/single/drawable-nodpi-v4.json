@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\grumpy_cat.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\grumpy_cat.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\socially_awesome_awkward_penguin.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\socially_awesome_awkward_penguin.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\leonardo_dicaproi_cheers.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\leonardo_dicaproi_cheers.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\super_cool_ski_instructor.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\super_cool_ski_instructor.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\one_does_not.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\one_does_not.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\good_guy_putin.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\good_guy_putin.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\i_have_no_idea_what_i_am_doing.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\i_have_no_idea_what_i_am_doing.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\gollum.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\gollum.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\good_guy_greg.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\good_guy_greg.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\no_patrick.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\no_patrick.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chef_gordon_ramsay.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\chef_gordon_ramsay.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\true_story.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\true_story.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\advice_yoda.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\advice_yoda.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\first_world_problems_guy.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\first_world_problems_guy.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\so_i_got_that_going_for_me.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\so_i_got_that_going_for_me.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\first_world_prob.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\first_world_prob.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\i_just_wait_here.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\i_just_wait_here.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\if_you_know_what_i_mean_bean.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\if_you_know_what_i_mean_bean.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\evil_plotting_raccoon.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\evil_plotting_raccoon.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\scumbag_steve.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\scumbag_steve.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\rick_and_carl.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\rick_and_carl.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bill_murray_golf.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\bill_murray_golf.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\peter_griffin_news.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\peter_griffin_news.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\insanity_wolf.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\insanity_wolf.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\stoner_lemur.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\stoner_lemur.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\asian.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\asian.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\batman_smiles.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\batman_smiles.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\first_day_on_the_internet_kid.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\first_day_on_the_internet_kid.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\leonardo_dicaproi_wolf_of_wall__street.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\leonardo_dicaproi_wolf_of_wall__street.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\captain_handsight.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\captain_handsight.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\frustrated_boromir.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\frustrated_boromir.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chainsaw_bear.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\chainsaw_bear.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\impossibru_guy_original.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\impossibru_guy_original.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\imagination_spingebob.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\imagination_spingebob.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pissed_off_obama.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\pissed_off_obama.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\liam_neeson_taken.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\liam_neeson_taken.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\disaster_girl.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\disaster_girl.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\i_dont_always.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\i_dont_always.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\spiderman_peter_parker.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\spiderman_peter_parker.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\philosoraptor.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\philosoraptor.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\i_know_fuck_me_right.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\i_know_fuck_me_right.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\creepy_condescending_wonka.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\creepy_condescending_wonka.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ten_guy.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\ten_guy.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\shut_up_and_take_my_money.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\shut_up_and_take_my_money.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\evil_toddler.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\evil_toddler.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\success_kid.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\success_kid.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\i_should_do_cat.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\i_should_do_cat.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\confession_kid.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\confession_kid.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\computer_guy.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\computer_guy.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\i_guarantee_it.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\i_guarantee_it.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\heavy_breathing_cat.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\heavy_breathing_cat.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dj_paully_d.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\dj_paully_d.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\winter_is_coming.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\winter_is_coming.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\x_x_everywhere.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\x_x_everywhere.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\yo_mamas_so_fat.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\yo_mamas_so_fat.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\lazy_college_senior.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\lazy_college_senior.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dat_ass.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\dat_ass.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\socially_awkward_penguin.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\socially_awkward_penguin.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\table_flip_guy.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\table_flip_guy.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\whisper_sloth.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\whisper_sloth.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\kermit_the_frog.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\kermit_the_frog.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\neil_degrasse_tyson.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\neil_degrasse_tyson.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\overly_manly_man.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\overly_manly_man.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\surprised_koala.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\surprised_koala.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\angry_toddler.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\angry_toddler.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\archer.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\archer.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pepperidge_farm_remembers.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\pepperidge_farm_remembers.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\x_all_the_y.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\x_all_the_y.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\spiderman_computer_dest.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\spiderman_computer_dest.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\college_liberal.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\college_liberal.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\forever_alone.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\forever_alone.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\duck_face_chicks.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\duck_face_chicks.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\nobody_got_time_for_that.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\nobody_got_time_for_that.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\futurama.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\futurama.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\back_in_my_day.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\back_in_my_day.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\that_would_be_great.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\that_would_be_great.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\butthurt_dweller.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\butthurt_dweller.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\skeptical_baby.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\skeptical_baby.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\awkard_moment_sealion.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\awkard_moment_sealion.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\picard_facepalm.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\picard_facepalm.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\consuela.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\consuela.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\jack_sparrow_being_chased.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\jack_sparrow_being_chased.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\am_i_the_only_one.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\am_i_the_only_one.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\i_too_like_to_live_dangerously.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\i_too_like_to_live_dangerously.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\afraid_to_ask_andy.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\afraid_to_ask_andy.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\kevin_hard_the_hell.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\kevin_hard_the_hell.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\and_then_i_said_obama.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\and_then_i_said_obama.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\yo_dawg_heard_you.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\yo_dawg_heard_you.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\and_everybody_loses_their_minds.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\and_everybody_loses_their_minds.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bad_luck_brian.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\bad_luck_brian.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\confession_bear.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\confession_bear.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\nuclear_explosion.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\nuclear_explosion.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\too_damn_high.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\too_damn_high.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cool_obama.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\cool_obama.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sparta_leonidas.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\sparta_leonidas.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\laughing_men_in_suits.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\laughing_men_in_suits.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\weird_stuff_i_do_potoo.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\weird_stuff_i_do_potoo.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\high_expectations_asian_father.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\high_expectations_asian_father.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\troll_face.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\troll_face.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\angry_baby.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\angry_baby.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\money_money.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\money_money.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\buddy_christ.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\buddy_christ.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\its_finally_over.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\its_finally_over.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\no_i_cant_obama.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\no_i_cant_obama.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\annoying_facebook_girl.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\annoying_facebook_girl.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\third_world_success.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\third_world_success.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\cill_out_lemur.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\cill_out_lemur.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\dwight_schrute.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\dwight_schrute.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\y_u_no.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\y_u_no.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sudden_clarity_clearence.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\sudden_clarity_clearence.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\challenge_accepted_rage_face.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\challenge_accepted_rage_face.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sad_cat.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\sad_cat.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\computer_guy_facepalm.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\computer_guy_facepalm.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\overly_attatched_girlfriend.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\overly_attatched_girlfriend.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\third_world_skeptical_kid.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\third_world_skeptical_kid.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\doge.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\doge.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\angry_chef_gordon_ramsay.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\angry_chef_gordon_ramsay.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\i_was_told_there_would_be.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\i_was_told_there_would_be.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\michael_jackson_popcorn.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\michael_jackson_popcorn.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\you_the_real_mvp.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\you_the_real_mvp.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\and_its_gone.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\and_its_gone.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\wtf.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\wtf.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\lion_king.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\lion_king.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chubby_bubbles_girl.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\chubby_bubbles_girl.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\yao_ming.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\yao_ming.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\middle_finger.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\middle_finger.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\baby_godfather.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\baby_godfather.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\redditors_wife.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\redditors_wife.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\jo_baka.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\jo_baka.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\metrix_morpheus.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\metrix_morpheus.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\conspiracy_keanu.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\conspiracy_keanu.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\unhelpful_high_school_teacher.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\unhelpful_high_school_teacher.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\today_was_a_good_day.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\today_was_a_good_day.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\chuk_norris_approves.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\chuk_norris_approves.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\drunk_baby.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\drunk_baby.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\grandma_find_internet.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\grandma_find_internet.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\joseph_ducreux.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\joseph_ducreux.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bear_grylls.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\bear_grylls.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\face_you_make_robert_downey_jr.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\face_you_make_robert_downey_jr.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\actual_advice_mallard.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\actual_advice_mallard.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\jackie_chan_wtf.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\jackie_chan_wtf.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\say_that_again_i_dare_you.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\say_that_again_i_dare_you.jpg"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\obi_wan_kenobi.jpg",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-nodpi\\obi_wan_kenobi.jpg"
+    }
+]

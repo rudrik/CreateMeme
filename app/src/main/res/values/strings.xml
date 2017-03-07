@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Create Meme</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sync">Sync</string>
+    <string name="action_share">Share</string>
+    <string name="action_pickcolor">Choose Color</string>
+    <string name="action_chooseTemplate">Choose Template</string>
+    <string name="action_cropTemplate">Crop Template</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="fraAllImage">All Image List</string>
+    <string name="favImageList">Fav Image List</string>
+    <string name="fraCreateMeme">Create Meme</string>
+    <string name="fraImageGallery">Image Gallery</string>
+    <string name="myImageLst">myImageList</string>
+    <string name="myTempLateLst">myTemplateList</string>
+    <string name="myFavTempLst">myFavTempList</string>
+    <string name="send_to">Share images to..</string>
+    <string name="are_you_sure_want_to_exit">Are you sure want to exit?</string>
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <string name="crop__pick_error">No image sources available</string>
+    <string name="crop__done">DONE</string>
+    <string name="crop__cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="dialog_title">Pick a Color</string>
+    <string name="savedmeme">Saved Meme</string>
+    <string name="createdmeme">Created Meme</string>
+    <string name="custommeme">Create Custom Meme</string>
+    <string name="myfav">My Fav</string>
+    <string name="All">All</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-2060604194255965/1771907338</string>
+    <!--<string name="interstitial_full_screen">ca-app-pub-3120536913205473/3021576335</string>-->
+
+
+    <dimen name="CodeFont">25sp</dimen>
+
+    <string-array name="menu_array">
+        <item>All</item>
+        <item>My Fav</item>
+        <item>Create Custom Meme</item>
+        <item>Created Meme</item>
+        <item>Saved Meme</item>
+    </string-array>
+
+    <string-array name="template_Name">
+        <item>Asian</item>
+        <item>Bad Luck Brian</item>
+        <item>Confession Bear</item>
+        <item>First World Problem</item>
+        <item>Futurama</item>
+        <item>I Don\'t Always</item>
+        <item>Jo Baka</item>
+        <item>One Does Not</item>
+        <item>Winter Is Coming</item>
+        <item>Am I the only one</item>
+        <item>And its gone</item>
+        <item>Awkard moment sealion</item>
+        <item>Conspiracy keanu</item>
+        <item>Creepy condescending wonka</item>
+        <item>Doge</item>
+        <item>Evil toddler</item>
+        <item>Grandma find internet</item>
+        <item>Grumpy cat</item>
+        <item>I just wait here</item>
+        <item>Kermit the frog</item>
+        <item>Metrix morpheus</item>
+        <item>Nobody got time for that</item>
+        <item>Philosoraptor</item>
+        <item>Picard facepalm</item>
+        <item>Say that again I dare you</item>
+        <item>Skeptical baby</item>
+        <item>Success kid</item>
+        <item>Ten guy</item>
+        <item>That would be great</item>
+        <item>Third world skeptical kid</item>
+        <item>Third world success</item>
+        <item>Too damn high</item>
+        <item>Wtf</item>
+        <item>X all the y</item>
+        <item>X X Everywhere</item>
+        <item>Y U No</item>
+
+        <item>Actual Advice Mallard</item>
+        <item>Advice Yoda</item>
+        <item>Afraid To Ask Andy</item>
+        <item>And Everybody Loses Their Minds</item>
+        <item>And Then I Said Obama</item>
+        <item>Angry Baby</item>
+        <item>Angry Chef Gordon Ramsay</item>
+        <item>Angry Toddler</item>
+        <item>Annoying Facebook Girl</item>
+        <item>Archer</item>
+        <item>Baby Godfather</item>
+        <item>back In My Day</item>
+        <item>Batman Smiles</item>
+        <item>Bear Grylls</item>
+        <item>Bill Murray Golf</item>
+        <item>Buddy Chirst</item>
+        <item>Butthurt Dweller</item>
+        <item>Captaon Handsight</item>
+        <item>Chainsaw Bear</item>
+        <item>Challange Accepted Rage Face</item>
+        <item>Chef Gordan Ramsay</item>
+        <item>Chubby Bubble Girl</item>
+        <item>Chuk Norris Approves</item>
+        <item>Cill Out Lemur</item>
+        <item>College Liberal</item>
+        <item>Computer Guy</item>
+        <item>Computer Guy Facepalm</item>
+        <item>Confession Kid</item>
+        <item>Consuela</item>
+        <item>Cool Obama</item>
+        <item>Dat Ass</item>
+        <item>Disaster Girl</item>
+        <item>DJ Paully D</item>
+        <item>Drunk Baby</item>
+        <item>Duck Face Chicks</item>
+        <item>Dwight Schrute</item>
+        <item>Evil Plotting Raccon</item>
+        <item>Face You Make Robert Downey JR</item>
+        <item>First Day On The Internet Kid</item>
+        <item>First World Problems Guy</item>
+        <item>Forever Alone</item>
+        <item>Frustrated Borimir</item>
+        <item>Gollum</item>
+        <item>Good Guy Greg</item>
+        <item>Good Guy Putin</item>
+        <item>Heavy Breathing Cat</item>
+        <item>High Expectation Asian Father</item>
+        <item>If You Know What I mean Bean</item>
+        <item>I Guarantee It</item>
+        <item>I Have No Idea What I Am Doing</item>
+        <item>I Know Fuck Me Right</item>
+        <item>Imagination Singebob</item>
+        <item>Impossibru Guy Original</item>
+        <item>Insanity Wolf</item>
+        <item>I Should Do Cat</item>
+        <item>I Too Like To Live Dangerously</item>
+        <item>Its Finally Over</item>
+        <item>I Was Told There Would Be</item>
+        <item>Jackie Chan WTF</item>
+        <item>Jack Sparrow Being Chased</item>
+        <item>Joseph Ducreux</item>
+        <item>Kevin Hard The Hell</item>
+        <item>Laughing Men In Suites</item>
+        <item>Lazy College Senior</item>
+        <item>Leonardo Dicaproi Cheers</item>
+        <item>Leonardo Dicaproi Wolf Of Wall Street</item>
+        <item>Liam Nesson Taken</item>
+        <item>Lion King</item>
+        <item>Michael Jackson Popcorn</item>
+        <item>Middle Finger</item>
+        <item>Money Money</item>
+        <item>Heol Gefrasse Tyson</item>
+        <item>No I Cant Obama</item>
+        <item>No Patrick</item>
+        <item>Nuclear Explosion</item>
+        <item>Obi Wan Kenobi</item>
+        <item>Overly attatched GirlFriend</item>
+        <item>Overly Manly Man</item>
+        <item>Pepperidge Farm Remembers</item>
+        <item>Peter Griffin News</item>
+        <item>Pissed Off Obama</item>
+        <item>Reffitors Wife</item>
+        <item>Rick And Carl</item>
+        <item>Sad Cat</item>
+        <item>Scumbag Steve</item>
+        <item>Shut Up And Take My Money</item>
+        <item>Socially Awesome Awkward Pengiune</item>
+        <item>Socially Awkward Penguin</item>
+        <item>So I Got That Going For Me</item>
+        <item>Sparta Leonidas</item>
+        <item>Spiderman Computer Dest</item>
+        <item>Spiderman Peter Parker</item>
+        <item>stoner Lemur</item>
+        <!--<item>success_kid</item>-->
+        <item>Sudden Clarity Clearence</item>
+        <item>Super Cool Ski Instructor</item>
+        <item>Surprised Koala</item>
+        <item>Table Flip Guy</item>
+        <item>Today Was a Good Day</item>
+        <item>Troll Face</item>
+        <item>True Story</item>
+        <item>Unhelpful High School Teacher</item>
+        <item>Weird Stuff I Do Potoo</item>
+        <item>Whisper Sloth</item>
+        <item>Yao Ming</item>
+        <item>Yo Dawg Heard You</item>
+        <item>Yo Mamas So Fat</item>
+        <item>You The Real MVP</item>
+    </string-array>
+</resources>

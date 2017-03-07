@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+
+    <!--"All"-->
+    <!--"My Fav"-->
+    <!--"Create Custom Meme"-->
+    <!--"Created Meme"-->
+    <!--"Saved Meme"-->
+    <item
+            android:id="@+id/action_all"
+            yourapp:showAsAction="ifRoom"
+            android:title="@string/All"/>
+    <item
+            android:id="@+id/action_myfav"
+            yourapp:showAsAction="ifRoom"
+            android:title="@string/myfav"/>
+    <item
+            android:id="@+id/action_custommeme"
+            yourapp:showAsAction="ifRoom"
+            android:title="@string/custommeme"/>
+    <item
+            android:id="@+id/action_createdMeme"
+            yourapp:showAsAction="ifRoom"
+            android:title="@string/createdmeme"/>
+    <item
+            android:id="@+id/action_savedMeme"
+            yourapp:showAsAction="ifRoom"
+            android:title="@string/savedmeme"/>
+
+</menu>

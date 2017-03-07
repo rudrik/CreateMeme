@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\ratingreminder\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\image_dialog_fragment.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\ratingreminder\\build\\intermediates\\bundles\\debug\\res\\layout\\image_dialog_fragment.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\ratingreminder\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_store_list_item.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\ratingreminder\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_store_list_item.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\ratingreminder\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\basic_dialog_fragment.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\ratingreminder\\build\\intermediates\\bundles\\debug\\res\\layout\\basic_dialog_fragment.xml"
+    }
+]

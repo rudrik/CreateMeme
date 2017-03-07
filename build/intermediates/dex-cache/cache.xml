@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.3-e4413c14311a43de9ae2aaec5de210e2235cc182.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\CreateMeme\ratingreminder\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ace197d3b8a6e2986016864a77926eee1a3e78cb">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-6255e9f459206578b422246563e71b46f7f2dc15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rudrik\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\picasso-2.5.2-2d5f368f36b8cd72f8ed67baa7b54dcfadc853aa.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-4be0b2b1ccf856005fc61e8b673bacc21f4dc4d5.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\CreateMeme\ambilwarnamaster\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="39120194c623225964dfdc7eea369092e8f52aac">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-3b7f6e617161fd2172403474783ccbc6ac679a12.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-f4f2d644106ff818dd496302308299cb4807e015.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\CreateMeme\lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="050fa36f8f74b408e73e27e9c503fe0f782abfc8">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-62ed6d5f2465baa403f01059cdfbcdab84aeeb9b.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-8ebfa302c5268b32f3b846b78e8630fefaf46f2a.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-5b4c46532747ab95d967b8af25b18dfc9bfb43d6.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-c7949f9c57e698b40e7a607e949da02d32d904a5.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-5c284276f0fbbae38fb313043a4f0b05a6688d29.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\libs\com-mqnvnfx-itwsdvr70223.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="43b28f5e8e3048234aa7dd7f37dd2c0835afc9f0">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\com-mqnvnfx-itwsdvr70223-755ddd47617ccf3d82e98f74093a612365a30347.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-0b3497315033b6845350a6e745efcc43fd3983cd.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-4b2208997f3001a82118be8a2c9aef0f50935c36.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\libs\myjson-1.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="14385295ce82764091b1b57b36d1fac3ed2d7429">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\myjson-1.5-8d4641e1404aa3372e6d7e9da901a839c5f2a699.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-db5ddd572419dc78a4dd70c18d2c8c91d8ee546d.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-0477e720f6af137ffc60a829b6d056b6a1da96d4.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-75d0d3abfc7d943a27a7511dc3a52008cadce385.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-85e2412f9c3fbae851c5e583fed1da1a52669c25.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-fe218e6bbea8acac65d6b6defb90281b55f00670.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-63ff4a9c335c1addf13effbff16ca20733c4d31e.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-233c59b66f93de627aa249ba0ea46b79c43eabfe.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-307797215e7c4a034fa1036984351ffc3ecce2ff.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-7b7405dbe47c6267511aa0a87cce6445af1c8844.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-6bcfd73846f27621e193dd515797c6706e6d4e1b.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-4be5ab534973702f7106add0aa6db6bfa77b1851.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-733d57cfb168ce03f2f3f6249736ee50ce5fc627.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-e3732d3dee0de72b62458ea46284bf0f26b8e382.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-6ee3da45c69fe39a15213e706bde5d841e2a22f4.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-799e32c0fea34f92589b45918be5804e6bd4bb04.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-e7d4cb83c856f94f7399c1f53485231d52432726.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-4ede087e6b695a4d49e2551e1bbf47441d43ea5b.jar" />
+    </item>
+    <item
+        jar="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="F:\Rudrik\GRADLE\CreateMeme\app\build\intermediates\pre-dexed\release\classes-ad0c5043d91d26855f9c605be268ce527e907810.jar" />
+    </item>
+
+</items>

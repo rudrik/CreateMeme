@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ambilwarna_arrow_right.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\CreateMeme\\ambilwarnamaster\\unspecified\\res\\drawable-ldpi-v4\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\CreateMeme\\lib\\unspecified\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ambilwarna_target.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\CreateMeme\\ambilwarnamaster\\unspecified\\res\\drawable-ldpi-v4\\ambilwarna_target.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ambilwarna_cursor.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\CreateMeme\\ambilwarnamaster\\unspecified\\res\\drawable-ldpi-v4\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ambilwarna_arrow_down.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\CreateMeme\\ambilwarnamaster\\unspecified\\res\\drawable-ldpi-v4\\ambilwarna_arrow_down.png"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+
+    <!--&lt;!&ndash;<item android:id="@+id/action_search"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:icon="@drawable/ic_action_search"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:title="@string/action_search"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:showAsAction="ifRoom"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:actionViewClass="android.widget.SearchView"/>&ndash;&gt;-->
+    <!--<item-->
+            <!--android:id="@+id/action_settings"-->
+            <!--android:orderInCategory="100"-->
+            <!--android:showAsAction="never"-->
+            <!--android:title="@string/action_settings"/>-->
+
+    <item android:id="@+id/action_SyncImage"
+          yourapp:showAsAction="ifRoom|collapseActionView"
+          android:title="@string/action_sync"></item>
+
+</menu>

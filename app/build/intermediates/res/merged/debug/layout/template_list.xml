@@ -1,0 +1,55 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--android:layout_width="fill_parent"-->
+<!--android:layout_height="fill_parent"-->
+<!--android:background="@color/back_color"-->
+<!--xmlns:yourapp="http://schemas.android.com/apk/res-auto">-->
+
+<!--&lt;!&ndash;<android.support.v7.widget.Toolbar&ndash;&gt;-->
+<!--&lt;!&ndash;android:id="@+id/my_awesome_toolbar"&ndash;&gt;-->
+<!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;android:layout_width="fill_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;android:minHeight="?attr/actionBarSize"&ndash;&gt;-->
+<!--&lt;!&ndash;android:background="?attr/colorPrimary"&ndash;&gt;-->
+<!--&lt;!&ndash;yourapp:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"&ndash;&gt;-->
+<!--&lt;!&ndash;yourapp:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>&ndash;&gt;-->
+
+<!--<FrameLayout-->
+<!--android:layout_width="fill_parent"-->
+<!--android:layout_height="fill_parent"-->
+<!--android:id="@+id/templateFrameLayout"-->
+<!-->-->
+<!--&lt;!&ndash;android:layout_below="@+id/my_awesome_toolbar"&ndash;&gt;-->
+
+<!--</FrameLayout>-->
+
+<!--</RelativeLayout>-->
+
+<android.support.v4.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- As the main content view, the view below consumes the entire
+    space available using match_parent in both dimensions. -->
+    <FrameLayout
+            android:id="@+id/templateFrameLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+    <!-- android:layout_gravity="start" tells DrawerLayout to treat
+    this as a sliding drawer on the left side for left-to-right
+    languages and on the right side for right-to-left languages.
+    The drawer is given a fixed width in dp and extends the full height of
+    the container. A solid background is used for contrast
+    with the content view. -->
+    <ListView
+            android:id="@+id/left_drawer"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp"
+            android:background="@color/back_color"/>
+</android.support.v4.widget.DrawerLayout>

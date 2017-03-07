@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\crop__layout_done_cancel.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\bundles\\debug\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\crop__activity_crop.xml",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\lib\\build\\intermediates\\bundles\\debug\\res\\layout\\crop__activity_crop.xml"
+    }
+]

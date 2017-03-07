@@ -1,0 +1,121 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+             tools:context="com.apptechx.creatememe.Activity.actCreateTemplate"
+             android:id="@+id/createTemplateLayout"
+             android:background="@color/back_color">
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+        <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/layTopText">
+
+            <EditText
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/edtTop"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:singleLine="true"
+                    android:gravity="center"
+                    android:hint="TOP TEXT HERE"
+                    android:layout_toLeftOf="@+id/btnSelectTopSize"
+                    android:imeOptions="actionDone"/>
+
+            <Button
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:id="@+id/btnSelectTopSize"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/edtTop"
+                    android:background="@drawable/ic_action_keyboard"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/layBotText"
+                android:layout_below="@+id/layTopText">
+
+            <EditText
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/edtBot"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:singleLine="true"
+                    android:gravity="center"
+                    android:hint="BOTTOM TEXT HERE"
+                    android:layout_toLeftOf="@+id/btnSelectBotSize"
+                    android:imeOptions="actionDone"/>
+
+            <Button
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:id="@+id/btnSelectBotSize"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/edtBot"
+                    android:background="@drawable/ic_action_keyboard"/>
+        </RelativeLayout>
+
+        <ImageView
+                android:id="@+id/result_image"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:scaleType="fitCenter"
+                android:layout_centerInParent="true"
+                android:layout_below="@+id/layBotText"
+                android:layout_marginTop="10dp"
+                android:layout_above="@+id/layBot"/>
+
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/layBot"
+                android:layout_gravity="bottom"
+                android:layout_alignParentBottom="true">
+
+            <Button
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:text="Rotate"
+                    android:textColor="@android:color/black"
+                    android:id="@+id/btnRotateTemplate"
+                    android:layout_weight="1"/>
+
+            <Button
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:text="Save"
+                    android:textColor="@android:color/black"
+                    android:id="@+id/btnCreateTemplate"
+                    android:layout_weight="1"/>
+
+            <Button
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:text="Preview"
+                    android:id="@+id/btnPreview"
+                    android:textColor="@android:color/black"
+                    android:layout_weight="1"/>
+
+            <Button
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:text="Create"
+                    android:id="@+id/btnCreate"
+                    android:textColor="@android:color/black"
+                    android:layout_weight="1"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

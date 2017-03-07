@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cast_ic_notification_1.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\7.5.0\\res\\drawable-hdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_new_picture.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new_picture.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_edit.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fav.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\fav.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_tall_off_client.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_standard_off_client.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_dark.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.5.0\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_crop.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_action_crop.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cast_ic_notification_0.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\7.5.0\\res\\drawable-hdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_medium_off_client.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_share.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cast_ic_notification_2.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\7.5.0\\res\\drawable-hdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cast_ic_notification_on.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\7.5.0\\res\\drawable-hdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\powered_by_google_light.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.5.0\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_keyboard.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_action_keyboard.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nofav.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\nofav.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stub.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_plusone_small_off_client.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home.png",
+        "source": "F:\\Rudrik\\GRADLE\\CreateMeme\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    }
+]

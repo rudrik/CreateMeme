@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_chooseTemplate"
+          yourapp:showAsAction="ifRoom|collapseActionView"
+          android:title="@string/action_chooseTemplate"
+          android:icon="@drawable/ic_action_new_picture"></item>
+    <item android:id="@+id/action_cropTemplate"
+          yourapp:showAsAction="ifRoom|collapseActionView"
+          android:title="@string/action_cropTemplate"
+          android:icon="@drawable/ic_action_crop"></item>
+    <item android:id="@+id/action_ChooseColor"
+          yourapp:showAsAction="ifRoom|collapseActionView"
+          android:title="@string/action_pickcolor"
+          android:icon="@drawable/ic_action_edit"></item>
+    <item android:id="@+id/action_ShareImage"
+          yourapp:showAsAction="ifRoom|collapseActionView"
+          android:title="@string/action_share"
+          android:icon="@drawable/ic_action_share"></item>
+</menu>
